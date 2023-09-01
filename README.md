@@ -1,6 +1,6 @@
 - 👋 Hi, i'm simeret
   
-      I’m currently learning to be  a  certified software engine
+      I’m currently learning to be  a  certified software engineer
   
 
 <!---
